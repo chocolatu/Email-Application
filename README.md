@@ -14,7 +14,7 @@ Email App written in Java
 
 •	Have get methods to display the name, email, and mailbox capacity
 
-Here’s the outline of the App
+
 
 # Outline the App
 
