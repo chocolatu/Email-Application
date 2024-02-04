@@ -36,3 +36,5 @@ To implement the specifications, we need the following to be implemented: <br>
 
 Now, we finish the outline for this app
 
+Let's go to implement this application
+
