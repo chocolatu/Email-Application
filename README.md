@@ -17,6 +17,7 @@ Scenario: You have to create email accounts for new hires with the below specifi
 Here’s the outline of the App
 
 Outline the App
+
 I will create 2 classes: EmailApp for main, and Email for implementation.
 We don’t want the users to access our variables, so we set them to private. 
 To implement the specifications, we need the following to be implemented: <br>
