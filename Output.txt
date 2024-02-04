@@ -1,0 +1,44 @@
+New Employee: John. Department Codes:
+1 for Sales
+2 for Development
+3 for Accounting
+0 for none
+Enter the department code: 1
+Password Generated: 901Z5QAXQZ
+DISPLAY NAME: John Smith
+COMPANY EMAIL: john.smith@sales.company.com
+MAILBOX CAPACITY: 500mb
+
+New Employee: John. Department Codes:
+1 for Sales
+2 for Development
+3 for Accounting
+0 for none
+Enter the department code: 2
+Password Generated: 9WMMFTEUYI
+DISPLAY NAME: John Smith
+COMPANY EMAIL: john.smith@dev.company.com
+MAILBOX CAPACITY: 500mb
+
+New Employee: John. Department Codes:
+1 for Sales
+2 for Development
+3 for Accounting
+0 for none
+Enter the department code: 3
+Password Generated: %CJ23B507Z
+DISPLAY NAME: John Smith
+COMPANY EMAIL: john.smith@acct.company.com
+MAILBOX CAPACITY: 500mb
+
+New Employee: John. Department Codes:
+1 for Sales
+2 for Development
+3 for Accounting
+0 for none
+Enter the department code: 0
+Password Generated: I2AN#N#TIG
+DISPLAY NAME: John Smith
+COMPANY EMAIL: john.smith@.company.com
+MAILBOX CAPACITY: 500mb
+
