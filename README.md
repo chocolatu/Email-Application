@@ -13,17 +13,17 @@ I will create 2 classes: EmailApp for main, and Email for implementation
 We don’t want the users to access our variables, so we set them to private. 
 To implement the specifications, we need the following to be implemented:
  
-//Constructor to receive the first name and last name
+1. Constructor to receive the first name and last name
 	
-	//Ask for the department
+2. Ask for the department
 	
-	//Generate a random password
+3. Generate a random password
 	
-	//Set the mailbox capacity
+4. Set the mailbox capacity
 	
-	//Set the alternate email
+5. Set the alternate email
 	
-	//Change the password
+6. Change the password
 
 Now, we finish the outline for this app
 
