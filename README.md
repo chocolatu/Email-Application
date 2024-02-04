@@ -1,6 +1,6 @@
 # Email-Application
 Email App written in Java
-Email Application
+
 
 Scenario: You have to create email accounts for new hires with the below specifications:
 
