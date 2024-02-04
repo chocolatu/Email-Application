@@ -2,7 +2,7 @@
 Email App written in Java
 
 
-Scenario: You have to create email accounts for new hires with the below specifications:
+# Scenario: You have to create email accounts for new hires with the below specifications:
 
 •	Generate an email with the following syntax: fistName.lastName@department.company.com
 
@@ -16,7 +16,7 @@ Scenario: You have to create email accounts for new hires with the below specifi
 
 Here’s the outline of the App
 
-Outline the App
+# Outline the App
 
 I will create 2 classes: EmailApp for main, and Email for implementation.
 We don’t want the users to access our variables, so we set them to private. 
